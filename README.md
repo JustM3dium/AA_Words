@@ -1,12 +1,8 @@
-# PUFO_Words
+# AA_Words
 
-Analyse der Podcast-Episoden von "Das Podcast-Ufo" als Text.
+Analyse der Podcast-Episoden von "Alman Arabica" als Text.
 Web App die es erlaubt nachzuschauen welche Wörter in welchen Podcast Folgen wie häufig gesagt wurden. 
 Entwickelt, weil ich eine Folge gesucht hatte aber nur noch grob wusste was gesagt wurde.
-
-🚀 **[Zur Podcast Folgen Analyse](https://pufo-words.streamlit.app/)** 🎧
-
-![App Screenshot](app_example.png "Screenshot")
 
 ## Projektüberblick
 
